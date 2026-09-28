@@ -8,7 +8,7 @@
   "server": {
     "ip": "raaznaik.aternos.me",
     "port": 12771,
-    "version": "1.26.3"
+    "version": "26.3"
   },
   "position": {
     "enabled": true,
